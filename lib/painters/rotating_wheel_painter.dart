@@ -1,6 +1,6 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:flutter_demo_animation/number_utils.dart';
+import 'package:flutter_demo_animation/utils/number_utils.dart';
 
 class RotatingWheelPainter extends CustomPainter {
   double diameter;
